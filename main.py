@@ -1,2 +1,3 @@
+import time
 print("arigato")
-sleep(10000000) # anında kapanmasın diye
+time.sleep(10000000) # anında kapanmasın diye
